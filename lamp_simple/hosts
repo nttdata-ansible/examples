@@ -1,7 +1,5 @@
 [webservers]
-web3
+localhost
 
 [dbservers]
-web2
-
-
+bensible
