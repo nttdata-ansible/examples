@@ -1,0 +1,5 @@
+[apache]
+54.234.41.87 ansible_ssh_user=ec2-user
+
+[localhost]
+127.0.0.1
